@@ -1,2 +1,2 @@
 # Bhargav-CV
-initial CV website using html alone
+initial CV website using basic HTML and CSS
